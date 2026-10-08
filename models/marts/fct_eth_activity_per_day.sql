@@ -18,5 +18,3 @@ from transactions_enriched
 group by
 date,
 transaction_category
-
------
