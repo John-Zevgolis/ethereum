@@ -1,0 +1,10 @@
+sources:
+  - name: eth
+    schema: raw
+    tables:
+      - name: contracts
+        identifier: raw_contracts
+      - name: token_transfers
+        identifier: raw_token_transfers
+      - name: transactions
+        identifier: raw_transactions
